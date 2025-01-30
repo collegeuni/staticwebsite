@@ -18,7 +18,7 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
-  --gray-dark: #343a40;
+  --gray-dark: #13294a;
   --primary: #FF6600;
   --secondary: #F2F1F8;
   --success: #28a745;
@@ -26,7 +26,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #FFFFFF;
-  --dark: #44425A;
+  --dark: #0e2043;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -2630,8 +2630,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #44425A;
-  border-color: #44425A;
+  background-color: #13294a;
+  border-color: #13294a;
 }
 
 .btn-dark:hover {
@@ -6425,7 +6425,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #44425A !important;
+  background-color: #13294a !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9869,7 +9869,7 @@ h6,
 }
 
 .bg-registration {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/registration.jpg), no-repeat center center;
+  background: #0e2043;
   background-size: cover;
 }
 
